@@ -108,12 +108,10 @@ The data model connects the HR-related data entities to support interactive anal
 
 <h2>Dashboard</h2>
 
-The HR Analytics Dashboard contains six main sections:
+The HR Analytics Dashboard contains four main sections:
 
-- Home
 - HR Overview
-- Workforce
-- Hiring
+- Workforce & Hiring
 - Leave & Absence
 - Satisfaction & Insights
 
@@ -154,7 +152,6 @@ The dashboard provides interactive analysis across workforce structure, recruitm
 
 - <a href="HR%20Analytics%20Dashboard.pbix">Power BI Dashboard</a>
 - <a href="HR%20Analytics%20Dashboard.pdf">Dashboard PDF</a>
-- <a href="HR%20Analytics_Data%20Model.jpeg">Data Model Diagram</a>
 
 <h2>Project Outcome</h2>
 
